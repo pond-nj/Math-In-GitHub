@@ -1,4 +1,4 @@
-# MathInGitHub
+# Math In Git Hub
 
 The class StringToUrlForMathGitHub in folder StringToURL converts a math equation into Img DOM. The img url is github-user-content api("https://render.githubusercontent.com/render/math?math=") which can be displayed in GitHub.
 
